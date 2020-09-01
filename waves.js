@@ -1,7 +1,7 @@
 const canvas = {
 	element: document.getElementById("background"),
 	context: null,
-	width: 160,
+	width: 800,
 	height: 0,
 	image: null,
 	buffer: null
